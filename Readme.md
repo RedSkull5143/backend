@@ -12,4 +12,9 @@ Day 3:
   Connecting Database to code.
   Custom API Response and Error Handling.
   Generally app.use is while using middleware
+  app.use(express.json({limit: "16kb"})) is used to limit incoming json.
+  app.use(express.urlencoded({extended: true})) is used to decode the url data.
+  app.use(cookieParser()) is used to access the cookie from user's browser and set secure cookies.
+ ![image](https://github.com/RedSkull5143/backend/assets/94903856/e8761bd9-4491-4c68-ae30-91df2ee23841)
+
   
