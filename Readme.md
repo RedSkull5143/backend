@@ -11,4 +11,5 @@ Day 2:
 Day 3:
   Connecting Database to code.
   Custom API Response and Error Handling.
+  Generally app.use is while using middleware
   
