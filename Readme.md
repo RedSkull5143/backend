@@ -18,4 +18,12 @@ Day 3:
   Middleware 👇
  ![image](https://github.com/RedSkull5143/backend/assets/94903856/e8761bd9-4491-4c68-ae30-91df2ee23841)
 
-  
+Day 4:
+  Made models of user and video.
+  mongoose-aggregate-paginate-v2
+  Bcrypt: A library to help you hash passwords.
+  We cant directly encrypt. We need hooks from mongoose. The Pre Middleware is used.
+  **Password Check**
+  userSchema.methods.isPasswordCorrect = async function (password){
+    return await bcrypt.compare(password,this.password);
+  } 
