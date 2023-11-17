@@ -1,5 +1,5 @@
 Day 1: 
-  Setting the Repo Professionally. \n
+  Setting the Repo Professionally.
   Connecting the vsCode with GitHub.
   Learnt to push code from vscode.
 
