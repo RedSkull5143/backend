@@ -1,3 +1,7 @@
+**_Model_**
+![image](https://github.com/RedSkull5143/backend/assets/94903856/8ecb1a6c-588d-47a9-8fed-1d161f93eb22)
+
+
 Day 1: 
   Setting the Repo Professionally.
   Connecting the vsCode with GitHub.
