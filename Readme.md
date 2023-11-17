@@ -27,7 +27,7 @@ Day 4:
   mongoose-aggregate-paginate-v2
   Bcrypt: A library to help you hash passwords.
   We cant directly encrypt. We need hooks from mongoose. The Pre Middleware is used.
-  **Password Check**
+  **Password Check :**
   userSchema.methods.isPasswordCorrect = async function (password){
     return await bcrypt.compare(password,this.password);
   } 
